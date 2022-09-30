@@ -8,7 +8,7 @@ import com.codepath.asynchttpclient.callback.JsonHttpResponseHandler
 import okhttp3.Headers
 
 private const val TAG = "MainActivity"
-private const val NOW_PLAYING_URL = "a07e22bc18f5cb106bfe4cc1f83ad8ed"
+private const val NOW_PLAYING_URL = "https://api.themoviedb.org/3/movie/900667/similar?api_key=a07e22bc18f5cb106bfe4cc1f83ad8ed&language=en-US&page=1"
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
