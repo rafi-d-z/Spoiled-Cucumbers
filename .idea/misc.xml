@@ -3,7 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/AndroidStudioProjects/SpoiledCucumbers/app/src/main/res/layout/activity_main.xml" value="0.2015625" />
+        <entry key="..\:/AndroidStudioProjects/SpoiledCucumbers/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/SpoiledCucumbers/app/src/main/res/layout/item_movie.xml" value="0.23949579831932774" />
       </map>
     </option>
   </component>
